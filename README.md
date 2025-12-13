@@ -1,4 +1,4 @@
-## 👋 Hi, I'm AMNA 
+## 👋 Hi, I'm AMNA AZHAR 
 
 ---
 
@@ -30,6 +30,7 @@ I am a **Class 10th student** focused on creating code that is not only function
 ---
 
 ## ✨ Thanks for visiting my profile!
+
 
   
 
