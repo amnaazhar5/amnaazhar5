@@ -1,4 +1,5 @@
-## 👋 Hi, I'm AMNA AZHAR 
+## 👋 Hi, I'm AMNA
+## AZHAR 
 
 ---
 
@@ -25,13 +26,13 @@ I am a **Class 10th student** focused on creating code that is not only function
 ---
 
 ## 📊 My GitHub Stats
-![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=merko&hide_border=true&count_private=true)
+![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_bust=1)
 
 ---
 
 ## ✨ Thanks for visiting my profile!
 
-
+---
   
 
 
