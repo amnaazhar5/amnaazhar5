@@ -1,5 +1,4 @@
-## 👋 Hi, I'm AMNA
-## AZHAR 
+## 👋 Hi, I'm AMNA AZHAR 
 
 ---
 
