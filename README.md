@@ -1,42 +1,45 @@
-## 👋 Hi, I'm AMNA AZHAR 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/handwave.gif" width="30px"> Hi, I'm AMNA AZHAR
+
+### 🎓 Class 10th Student | 🚀 Aspiring Web Developer 
 
 ---
 
-### 💻 Front-End Learner | Aspiring Web Developer
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=Profile%20Views&color=deeppink&style=flat" alt="amnaazhar5" />
+</p>
 
-I am a **Class 10th student** focused on creating code that is not only functional but also impactful. My specialization is in mastering the core fundamentals of web development: **HTML, CSS,** and **JavaScript**. My clear goal is to build clean and responsive websites that are user-friendly.
+### 💻 About Me
+I am a dedicated **Class 10th student** passionate about exploring the world of programming. My goal is to master web technologies and build impactful digital experiences.
 
----
-
-## 🚀 My Current Focus
-
-* **SKILLED IN:** **HTML** and **CSS** for creating clean structure and styling.
-* **CURRENTLY LEARNING:** **JavaScript** fundamental concepts and basic syntax.
-* **CONTINUOUS PRACTICE:** Strengthening foundational knowledge and web concepts.
-
----
-
-## 🛠️ Core Skills
-
-* **Frontend:** HTML, CSS, and JavaScript
-* **Tools:** Git, GitHub, and VS Code
-* **Soft Skills:** Problem-Solving, Creative Thinking, and Rapid Learning
+- ⚡ **Focus:** Mastering HTML, CSS, and Core JavaScript.
+- 🎯 **Current Goal:** Strengthening my logic building and problem-solving skills.
+- 🌱 **Learning:** Deep diving into **JavaScript** to create interactive web applications.
 
 ---
 
-## 📊 My GitHub Stats
-![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_bust=1)
+### 🛠️ Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-## 🌐 My Most Used Languages 
-![Amna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnaazhar5&layout=compact&theme=merko&hide_border=true)
+---
+
+### 📊 GitHub Analytics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=radical&hide_border=true" alt="Amna's Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaazhar5&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
-## ✨ Thanks for visiting my profile!
+### ✨ Daily Inspiration
+> "The beautiful thing about learning is that nobody can take it away from you."
 
----
-  
-
+**Thanks for visiting my profile! Feel free to explore my repositories! 🚀**
 
 
 
