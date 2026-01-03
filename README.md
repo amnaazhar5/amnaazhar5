@@ -1,12 +1,12 @@
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=PROFILE%20VIEWS&color=ff1493&style=flat-square" alt="amnaazhar5" />
+</p>
+
 # Hi 👋, I'm AMNA AZHAR
 
 ### 🎓 Class 10th Student | 🚀 Aspiring Web Developer 
 
 ---
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=PROFILE%20VIEWS&color=ff1493&style=flat-square" alt="amnaazhar5" />
-</p>
 
 ### 💻 About Me
 I am a dedicated **Class 10th student** focused on creating code that is not only functional but also impactful. My specialization is in mastering the core fundamentals of web development.
@@ -42,10 +42,3 @@ I am a dedicated **Class 10th student** focused on creating code that is not onl
 **Thanks for visiting my profile! Feel free to explore my repositories! 🚀**
 
 ---
-
-
-
-
-
-
-
