@@ -1,45 +1,45 @@
-# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hvRJCLFzcasrR4KNJl/giphy.gif" width="35px">, I'm AMNA AZHAR
+# Hi ✨, I'm AMNA AZHAR
 
 ### 🎓 Class 10th Student | 🚀 Aspiring Web Developer 
 
 ---
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=Profile%20Views&color=ff1493&style=flat" alt="amnaazhar5" />
+<img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=PROFILE%20VIEWS&color=0078d7&style=plastic" alt="amnaazhar5" />
 </p>
 
 ### 💻 About Me
-I am a dedicated **Class 10th student** passionate about exploring the world of programming. My goal is to master web technologies and build impactful digital experiences.
+I am a dedicated **Class 10th student** passionate about building the future of the web. I manage my studies and my passion for coding side-by-side, aiming to become a professional developer.
 
-- ⚡ **Focus:** Mastering HTML, CSS, and Core JavaScript.
-- 🎯 **Current Goal:** Strengthening my logic building and problem-solving skills.
-- 🌱 **Learning:** Deep diving into **JavaScript** to create interactive web applications.
+- ⚡ **Core Focus:** Mastering HTML, CSS, and JavaScript.
+- 🎯 **Academic Goal:** Excelling in 10th Grade Board Exams.
+- 🌱 **Currently Learning:** Deep diving into **JavaScript Logic**.
 
 ---
 
 ### 🛠️ Tech Stack
-| Category | Skills |
+| Frontend | Tools |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 My Coding Journey
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=radical&rank_icon=github" alt="Amna's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=tokyonight" alt="Amna's Stats" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaazhar5&layout=compact&theme=radical" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaazhar5&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
 
-### ✨ Daily Inspiration
-> "The beautiful thing about learning is that nobody can take it away from you."
+### ✨ Daily Quote
+> "Success is the sum of small efforts, repeated day in and day out."
 
-**Thanks for visiting my profile! Feel free to explore my repositories! 🚀**
+**Keep coding and stay brilliant! 🚀**
+
 
 
 
