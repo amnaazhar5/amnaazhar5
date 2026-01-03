@@ -1,11 +1,11 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/handwave.gif" width="30px"> Hi, I'm AMNA AZHAR
+# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzZDIzJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hvRJCLFzcasrR4KNJl/giphy.gif" width="35px">, I'm AMNA AZHAR
 
 ### 🎓 Class 10th Student | 🚀 Aspiring Web Developer 
 
 ---
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=Profile%20Views&color=deeppink&style=flat" alt="amnaazhar5" />
+<img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=Profile%20Views&color=ff1493&style=flat" alt="amnaazhar5" />
 </p>
 
 ### 💻 About Me
@@ -27,11 +27,11 @@ I am a dedicated **Class 10th student** passionate about exploring the world of 
 
 ### 📊 GitHub Analytics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=radical&hide_border=true" alt="Amna's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=radical&rank_icon=github" alt="Amna's Stats" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaazhar5&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaazhar5&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
@@ -40,6 +40,7 @@ I am a dedicated **Class 10th student** passionate about exploring the world of 
 > "The beautiful thing about learning is that nobody can take it away from you."
 
 **Thanks for visiting my profile! Feel free to explore my repositories! 🚀**
+
 
 
 
