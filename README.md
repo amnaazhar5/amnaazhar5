@@ -25,6 +25,13 @@ I am a dedicated **Class 10th student** focused on creating code that is not onl
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amnaazhar5&theme=radical&no-frame=true&margin-w=15" alt="amnaazhar5" /></a>
+</p>
+
+---
+
 ### 📊 My GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=radical" alt="Amna's Stats" />
