@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm AMNA AZHAR
 
-### 🎓 Class 10th Student | 🚀 Aspiring MERN Stack Developer 
+### 🎓 Class 10th Student | 🚀 Aspiring Full-Stack Web Developer 
 
 ---
 
@@ -14,6 +14,13 @@ I am a dedicated **Class 10th student** focused on creating code that is not onl
 - ⚡ **Skilled In:** HTML and CSS.
 - 🌱 **Currently Learning:** JavaScript.
 - 🎯 **Goal:** Full-Stack Web Development.
+
+---
+
+### 🌐 Socials
+<p align="left">
+<a href="https://github.com/amnaazhar5" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="amnaazhar5" /></a>
+</p>
 
 ---
 
@@ -53,5 +60,7 @@ I am a dedicated **Class 10th student** focused on creating code that is not onl
 ### ✨ Daily Inspiration
 > "Success is the sum of small efforts, repeated day in and day out."
 
-**Thanks for visiting my profile!Feel free to explore my repositories 🚀** **😊✨**
+**Thanks for visiting my profile! Feel free to explore my repositories 🚀 😊✨**
+
+---
 
