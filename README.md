@@ -20,6 +20,7 @@ I am a dedicated **Class 10th student** focused on creating code that is not onl
 ### 🌐 Socials
 <p align="left">
 <a href="https://github.com/amnaazhar5" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="amnaazhar5" /></a>
+<a href="https://www.linkedin.com/in/amna-azhar-2110243a5" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="amna-azhar" /></a>
 </p>
 
 ---
@@ -64,4 +65,3 @@ I am a dedicated **Class 10th student** focused on creating code that is not onl
 
 
 ---
-
