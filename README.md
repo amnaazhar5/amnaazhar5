@@ -49,7 +49,7 @@ I am a dedicated **Class 10th student** focused on creating code that is not onl
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amnaazhar5&show_icons=true&theme=radical" alt="Amna's Stats" />
+<img src="https://gitub-redme-stats.verel.app/api?username=amnaazhar5&show_icons=true&theme=radical" alt="Amna's Stats" />
 </p>
 
 <p align="left">
