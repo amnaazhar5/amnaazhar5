@@ -2,18 +2,19 @@
 <img src="https://komarev.com/ghpvc/?username=amnaazhar5&label=PROFILE%20VIEWS&color=ff1493&style=flat-square" alt="amnaazhar5" />
 </p>
 
-# Hi 👋, I'm AMNA AZHAR
+### Hi 👋, I'm AMNA AZHAR
 
-### 🎓 Class 10th Student | 🚀 Aspiring Full-Stack Web Developer 
+💻 **Frontend Web Developer & Tech Enthusiast** 🚀
 
 ---
 
 ### 💻 About Me
-I am a dedicated **Class 10th student** focused on creating code that is not only functional but also impactful.
 
-- ⚡ **Skilled In:** HTML and CSS.
-- 🌱 **Currently Learning:** JavaScript.
-- 🎯 **Goal:** Full-Stack Web Development.
+I am a dedicated developer focused on creating clean, functional, and impactful web experiences. Having completed a 1-year Web Development course, I love turning ideas into reality through code.
+
+- ⚡ **Skilled In:** HTML, CSS, and JavaScript.
+- 🌿 **Currently Exploring:** Advanced Frontend tools and responsive design.
+- 🎯 **Goal:** Building full-stack web applications that make a difference.
 
 ---
 
