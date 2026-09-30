@@ -12,6 +12,8 @@
 
 I am a dedicated developer focused on creating clean, functional, and impactful web experiences. Having completed a 1-year Web Development course, I love turning ideas into reality through code.
 
+---
+
 - ⚡ **Skilled In:** HTML, CSS, and JavaScript.
 - 🌿 **Currently Exploring:** Advanced Frontend tools and responsive design.
 - 🎯 **Goal:** Building full-stack web applications that make a difference.
